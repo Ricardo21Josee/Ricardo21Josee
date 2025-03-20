@@ -1,3 +1,5 @@
+<h1 align="center"><b>Hi , I'm Ricardo Márquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <h1>About Me</h1>
 <p>I’m a punctual, organized, and responsible person who socializes easily. I’m fully committed to fulfilling my duties and constantly seek to learn in any type of work.
   I’m to secure a position where I can apply my knowledge to the fullest as a professional and work towards better opportunities through gained experience.</p>
@@ -14,6 +16,9 @@
 <h2>Others</h2>
 <p>- American VISA</p>
 <p>- Passport</p>
+
+
+
 
 <br>
 <h1>CERTIFIED COURSES</h1> 
