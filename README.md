@@ -2,11 +2,11 @@
 <p>I’m a punctual, organized, and responsible person who socializes easily. I’m fully committed to fulfilling my duties and constantly seek to learn in any type of work.
   I’m to secure a position where I can apply my knowledge to the fullest as a professional and work towards better opportunities through gained experience.</p>
 
-<br>
-<h1>Studies</h1>
+
+<h2>Studies</h2>
 <p>Systems Engineering at Mariano Gálvez University of Guatemala, currently in the 3rd semester.</p>
 
-<br>
+
 <h2>Languages</h2>
 <p>- Spanish (Native)</p>
 <p>- Intermediate English (Currently improving)</p>
