@@ -82,4 +82,8 @@
   <a href="https://instagram.com/mar_quez_g" target="_blank">
     <img src="https://img.shields.io/badge/-@mar__quez__g-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/josé-márquez-68ab10299" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
