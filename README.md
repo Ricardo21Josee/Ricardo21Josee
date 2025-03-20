@@ -1,9 +1,12 @@
 <h1>About Me</h1>
 <p>I’m a punctual, organized, and responsible person who socializes easily. I’m fully committed to fulfilling my duties and constantly seek to learn in any type of work.
   I’m to secure a position where I can apply my knowledge to the fullest as a professional and work towards better opportunities through gained experience.</p>
+
 <br>
+<h1>Studies</h1>
+<p>Systems Engineering at Mariano Gálvez University of Guatemala, currently in the 3rd semester.</p>
 
-
+<br>
 <h2>Languages</h2>
 <p>- Spanish (Native)</p>
 <p>- Intermediate English (Currently improving)</p>
@@ -12,7 +15,7 @@
 <p>- American VISA</p>
 <p>- Passport</p>
 
-
+<br>
 <h1>CERTIFIED COURSES</h1> 
 <p>NOTE: To view the certificates, click on the name of the courses.</p>
 
@@ -30,8 +33,6 @@
 <h3>- CyberSecurity</h3>
 <a href="https://drive.google.com/file/d/1v5Yfz8qohjC9cU9o03xhlJM1yTKqnf0b/view?usp=drive_link">Fundamentals of Cybersecurity</a>
 
-
-<br>
 <br>
 <br>
 <h1>Programming Languages</h1>
