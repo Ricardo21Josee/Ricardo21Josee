@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/-@mar__quez__g-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/ricardo-márquez-garcía-68ab10299" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-márquez-garcía-68ab10299" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
