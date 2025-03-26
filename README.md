@@ -44,7 +44,7 @@
 <h2>Back-end</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,cpp" alt="MySQL, Python, C++, r" />
+    <img src="https://skillicons.dev/icons?i=mysql,py,cpp,r" alt="MySQL, Python, C++, R"/>
   </a>
   <br />
   SQL - Python - C++ - R
@@ -71,7 +71,7 @@
 <h1>Tools</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, r" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash.r" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, R" />
   </a>
   <br />
   Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash - R Studio
