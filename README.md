@@ -44,10 +44,10 @@
 <h2>Back-end</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,cpp" alt="MySQL, Python, C++" />
+    <img src="https://skillicons.dev/icons?i=mysql,py,cpp" alt="MySQL, Python, C++, r" />
   </a>
   <br />
-  SQL - Python - C++
+  SQL - Python - C++ - R
 </p>
 
 <h2>Front-end</h2>
@@ -71,10 +71,10 @@
 <h1>Tools</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, r" />
   </a>
   <br />
-  Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash
+  Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash - R Studio
 </p>
 <br>
 
