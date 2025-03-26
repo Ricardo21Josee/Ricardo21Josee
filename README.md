@@ -44,10 +44,10 @@
 <h2>Back-end</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,cpp,r" alt="MySQL, Python, C++, R"/>
+    <img src="https://skillicons.dev/icons?i=mysql,py,cpp" alt="MySQL, Python, C++"/>
   </a>
   <br />
-  SQL - Python - C++ - R
+  SQL - Python - C++
 </p>
 
 <h2>Front-end</h2>
@@ -57,6 +57,15 @@
   </a>
   <br />
   JavaScript - HTML - CSS
+</p>
+<br>
+<h2>Programming Language for Statistical Analysis and Data Manipulation</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r" alt="R"/>
+  </a>
+  <br />
+  R
 </p>
 <br>
 <h1>Frameworks</h1>
