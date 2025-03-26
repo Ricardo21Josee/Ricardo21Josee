@@ -58,7 +58,6 @@
   <br />
   JavaScript - HTML - CSS
 </p>
-<br>
 <h2>Programming Language for Statistical Analysis and Data Manipulation</h2>
 <p>
   <a href="https://skillicons.dev">
@@ -67,7 +66,6 @@
   <br />
   R
 </p>
-<br>
 <h1>Frameworks</h1>
 <p>
   <a href="https://skillicons.dev">
