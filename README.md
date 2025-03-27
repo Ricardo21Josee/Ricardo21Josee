@@ -78,7 +78,7 @@
 <h1>Tools</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash.r" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, R" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash,r" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, R" />
   </a>
   <br />
   Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash - R Studio
