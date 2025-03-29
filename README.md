@@ -24,8 +24,14 @@
 <h1>CERTIFIED COURSES</h1> 
 <p>NOTE: To view the certificates, click on the name of the courses.</p>
 
+
 <h3>- Data Base</h3>
-<a href="https://drive.google.com/file/d/1ZNH5v2GFH0QtOWSqQIvPTvviOonQds2m/view?usp=drive_link">SQL I</a> -- <a href="https://drive.google.com/file/d/1vaFbFbYmBw4bxZrrR891E5imJAw6Ofvq/view?usp=drive_link">SQL II</a> -- <a href="https://drive.google.com/file/d/1L4f4SsI0hs1KrkNNK7TH6I3A0QLRe9H_/view?usp=drive_link">SQL III</a> -- <a href="https://drive.google.com/file/d/1EmcBpkiY7FVbNyKvI7wIKleb_vi5rf1i/view?usp=drive_link">SQL Specialization</a> -- <a href="https://drive.google.com/file/d/1tHM2iISE-dfLa-XCW__OMvkRZ3iFsUdR/view?usp=drive_link">Fundamentals of Big Data</a> 
+<a href="https://drive.google.com/file/d/1ZNH5v2GFH0QtOWSqQIvPTvviOonQds2m/view?usp=drive_link">SQL I</a> -- <a href="https://drive.google.com/file/d/1vaFbFbYmBw4bxZrrR891E5imJAw6Ofvq/view?usp=drive_link">SQL II</a> -- <a href="https://drive.google.com/file/d/1L4f4SsI0hs1KrkNNK7TH6I3A0QLRe9H_/view?usp=drive_link">SQL III</a> -- <a href="https://drive.google.com/file/d/1EmcBpkiY7FVbNyKvI7wIKleb_vi5rf1i/view?usp=drive_link">SQL Specialization</a>
+
+
+<h3>- Data Analytics</h3>
+<a href="https://drive.google.com/file/d/1UsqxisP2ZZ6GYT46wb-vkw3c_ouwqtQV/view?usp=sharing">Data Visualization with R</a> -- <a href="https://drive.google.com/file/d/19yKCpF0puxmTVnZdl6cfzboTj1tKbtLq/view?usp=sharing">Data Manipulation and Transformation with R</a> -- <a href="https://drive.google.com/file/d/17VJ-OiMmb8JzWJgRo8uXtYH-1SkhDFa-/view?usp=drive_link">R for Data Science</a> -- <a href="https://drive.google.com/file/d/1HcG7Xo1C3_K8NuU5TTnFENYXXiJ4W-SQ/view?usp=drive_link">Specialization in R programming - Data Science</a> -- <a href="https://drive.google.com/file/d/1tHM2iISE-dfLa-XCW__OMvkRZ3iFsUdR/view?usp=drive_link">Fundamentals of Big Data</a>
+
 
 <h3>- Front-End</h3>
 <a href="https://drive.google.com/file/d/1uY63qecxZSj4E4yu5de40NSaEqqYgvP6/view?usp=sharing">Professional Git y GitHub</a> -- <a href="https://drive.google.com/file/d/1Dz8zDsNEc82bCABxD37H51SQxxkUwlGa/view?usp=sharing">Introduction to HTML</a> -- <a href="https://drive.google.com/file/d/1mQKmAaqyMuWNCNfjRyo78RbnTnb_M3Na/view?usp=drive_link">HTML Web Page Creation</a> -- <a href="https://drive.google.com/file/d/1lqJSZFDwF-zR2eYWFX-15eaitJ_IjuAO/view?usp=sharing">HTML Bootstrap</a> -- <a href="https://drive.google.com/file/d/1olp69tNpmsThp1jYAwlGtkH7RK8UJw7Y/view?usp=drive_link">HTML specialization</a> <br>
