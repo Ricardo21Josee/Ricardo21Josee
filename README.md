@@ -33,6 +33,14 @@
 <a href="https://drive.google.com/file/d/1-Fm0n3RQ0bz5q_O7VmfRD1kxAfFLex9x/view?usp=sharing">Programming in R</a> -- <a href="https://drive.google.com/file/d/1UsqxisP2ZZ6GYT46wb-vkw3c_ouwqtQV/view?usp=sharing">Data Visualization with R</a> -- <a href="https://drive.google.com/file/d/19yKCpF0puxmTVnZdl6cfzboTj1tKbtLq/view?usp=sharing">Data Manipulation and Transformation with R</a> -- <a href="https://drive.google.com/file/d/17VJ-OiMmb8JzWJgRo8uXtYH-1SkhDFa-/view?usp=drive_link">R for Data Science</a> -- <a href="https://drive.google.com/file/d/1HcG7Xo1C3_K8NuU5TTnFENYXXiJ4W-SQ/view?usp=drive_link">Specialization in R programming - Data Science</a> -- <a href="https://drive.google.com/file/d/1tHM2iISE-dfLa-XCW__OMvkRZ3iFsUdR/view?usp=drive_link">Fundamentals of Big Data</a>
 
 
+
+<h3>- UX Design</h3>
+<a href="">Introduction to User Experience Design</a> -- <a href="">UX Best Practices</a> -- <a href="">Usability for Digital Platforms</a> -- <a href="">Analytics and Optimization of Digital Products</a> --
+<a href="">Introduction to UX Writing</a> -- <a href="">UX Creative Process</a> -- <a href="">Fundamentals of Interface Design</a> -- <a href="">Specialization in UX Design</a> 
+
+
+
+
 <h3>- Front-End</h3>
 <a href="https://drive.google.com/file/d/1uY63qecxZSj4E4yu5de40NSaEqqYgvP6/view?usp=sharing">Professional Git y GitHub</a> -- <a href="https://drive.google.com/file/d/1Dz8zDsNEc82bCABxD37H51SQxxkUwlGa/view?usp=sharing">Introduction to HTML</a> -- <a href="https://drive.google.com/file/d/1mQKmAaqyMuWNCNfjRyo78RbnTnb_M3Na/view?usp=drive_link">HTML Web Page Creation</a> -- <a href="https://drive.google.com/file/d/1lqJSZFDwF-zR2eYWFX-15eaitJ_IjuAO/view?usp=sharing">HTML Bootstrap</a> -- <a href="https://drive.google.com/file/d/1olp69tNpmsThp1jYAwlGtkH7RK8UJw7Y/view?usp=drive_link">HTML specialization</a> <br>
 <a href="https://drive.google.com/file/d/1n6NFoOWCD1-KR9CKrMIR6mZzzH22oO6M/view?usp=sharing">CSS I</a> -- <a href="https://drive.google.com/file/d/1wrUx2PUaaAvJVFoqKpciKTjWEqMMZzE7/view?usp=sharing">CSS II</a> -- <a href="https://drive.google.com/file/d/17KCbd2kqB9KDImicItWss-_b4Ofj6DKM/view?usp=sharing">CSS III</a> 
@@ -80,14 +88,13 @@
   <br />
   Django - Bootstrap
 </p>
-<br>
 <h1>Tools</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash,r" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, R" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash,r,figma" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, R" />
   </a>
   <br />
-  Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash - R Studio
+  Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash - R Studio - Figma
 </p>
 <br>
 
