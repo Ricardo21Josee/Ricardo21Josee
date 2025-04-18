@@ -35,8 +35,8 @@
 
 
 <h3>- UX Design</h3>
-<a href="">Introduction to User Experience Design</a> -- <a href="">UX Best Practices</a> -- <a href="">Usability for Digital Platforms</a> -- <a href="">Analytics and Optimization of Digital Products</a> --
-<a href="">Introduction to UX Writing</a> -- <a href="">UX Creative Process</a> -- <a href="">Fundamentals of Interface Design</a> -- <a href="">Specialization in UX Design</a> 
+<a href="https://drive.google.com/file/d/1zh3ommE9As9yb7tYwx_zlBey0ym-FnMZ/view?usp=sharing">Introduction to User Experience Design</a> -- <a href="https://drive.google.com/file/d/1aLMz6rCSlvbb2kL9q-q1mKi1tc2GXOv-/view?usp=sharing">UX Best Practices</a> -- <a href="https://drive.google.com/file/d/1VCdiN0UAFB1RYP_ba6SRL4cyOZp0kNz6/view?usp=sharing">Usability for Digital Platforms</a> -- <a href="https://drive.google.com/file/d/1rU19icGyGh65Idy3LWUpxmKzra9gn0eJ/view?usp=sharing">Analytics and Optimization of Digital Products</a> --
+<a href="https://drive.google.com/file/d/17CHEaUpXaZZtES4DaILHXAw2YRk9HyDg/view?usp=sharing">Introduction to UX Writing</a> -- <a href="https://drive.google.com/file/d/1csDxWwSnKO4fIBbI7DWYBjMyvkhD7isc/view?usp=sharing">UX Creative Process</a> -- <a href="">Fundamentals of Interface Design</a> -- <a href="">Specialization in UX Design</a> 
 
 
 
