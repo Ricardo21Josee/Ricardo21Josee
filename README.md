@@ -50,7 +50,7 @@
 <a href="https://drive.google.com/file/d/1g6ecd4m8twx00oYqDTaiQ2CuH9JyCnyz/view?usp=sharing">Django IV - Create APIs with Django</a> -- <a href="https://drive.google.com/file/d/1kzr802v823SxCtQfgsufo4qIB6OrY_Tg/view?usp=sharing">Specialization in Python and Django Programming</a> 
 
 <h3>- CyberSecurity</h3>
-<a href="https://drive.google.com/file/d/1v5Yfz8qohjC9cU9o03xhlJM1yTKqnf0b/view?usp=drive_link">Fundamentals of Cybersecurity</a>
+<a href="https://drive.google.com/file/d/1v5Yfz8qohjC9cU9o03xhlJM1yTKqnf0b/view?usp=drive_link">Fundamentals of Cybersecurity</a> -- <a href="https://drive.google.com/file/d/1Asl97boX9kHKTAvAGgw_nOYxUf1o6l31/view?usp=sharing">Zero Trust</a> -- <a href="https://drive.google.com/file/d/1l_GvsxzbfuuITpKdwXfyHWU-u1TyAfJu/view?usp=sharing">Cybersecurity Ethical Hacker Fundamentals</a>
 
 <br>
 <br>
