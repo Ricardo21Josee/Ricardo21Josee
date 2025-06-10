@@ -58,10 +58,10 @@
 <h2>Back-end</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,cpp" alt="MySQL, Python, C++"/>
+    <img src="https://skillicons.dev/icons?i=mysql,py,cpp,cs" alt="MySQL, Python, C++, C#"/>
   </a>
   <br />
-  SQL - Python - C++
+  SQL - Python - C++ - C#
 </p>
 
 <h2>Front-end</h2>
@@ -83,18 +83,18 @@
 <h1>Frameworks</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,bootstrap" alt="Django, Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=django,bootstrap,react,tailwind" alt="Django, Bootstrap, React, Tailwind" />
   </a>
   <br />
-  Django - Bootstrap
+  Django - Bootstrap - React Native- Tailwind	
 </p>
 <h1>Tools</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash,r,figma" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, R" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postgresql,mysql,github,bash,r,figma,androidstudio,docker,supabase" alt="VSCode, Visual Studio, PostgreSQL, MySQL, GitHub, Git Bash, R, Figma, AndroidStudio, Docker, Supabase" />
   </a>
   <br />
-  Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash - R Studio - Figma
+  Visual Studio Code - Visual Studio 2022 - PostgreSQL - Microsoft SQL Server - GitHub - Git Bash - R Studio - Figma - Android Studio - Docker - Supabase
 </p>
 <br>
 
