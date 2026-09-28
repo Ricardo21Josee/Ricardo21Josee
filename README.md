@@ -30,10 +30,10 @@
 
 ### 🌐 Programador Web — Proyectos Independientes
 **01/01/2024 - Presente**
-- Affedco (Construcción) — https://affedco.com/
-- Gamas Legacy Real Estate — https://gamaslegacyrealestate.com/
-- Genuine Faith Shelters (Uganda, África) — https://genuinefaithshelters.org/
-- Acaten360 (Agencia de Viajes Volcán) — https://acaten360.com/
+- Affedco (Constructora y Remodelación) — https://affedco.com/
+- Gamas Legacy Real Estate (Inmobiliaria) — https://gamaslegacyrealestate.com/
+- Genuine Faith Shelters (Orfanato en Uganda, África) — https://genuinefaithshelters.org/
+- Acaten360 (Agencia de Viajes al Volcán Acatenango) — https://acaten360.com/
 - FertiOrganico (Agricultura) — https://fertiorganico.com.gt/
 - Clínicas Ser en Equilibrio (Psicología) — https://clinicaserenequilibrio.com
 
@@ -96,14 +96,6 @@
 
 ### Otras Herramientas
 - JIRA · POSTMAN · Expo Go · Twilio · SendBird · Git Bash · Linux / Windows · Notion · Teams · SAP · R Studio · Oracle · Microsoft SQL Server 2019 · PgAdmin4 · Google Cloud
-
----
-
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo21Josee&show_icons=true&theme=algolia" alt="Estadísticas de GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo21Josee&layout=compact&theme=algolia" alt="Lenguajes Principales" width="400"/>
-</p>
 
 ---
 
