@@ -1,113 +1,113 @@
 <h1 align="center">
-  <b>Hi, I'm Ricardo José Márquez García</b>
+  <b>Hola, soy Ricardo José Márquez García</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student;Full-Stack+Developer;Data+Analyst;UX+Designer;QA+%26+Mobile+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+Full-Stack;Analista+de+Datos;Dise%C3%B1ador+UX;QA+%26+Desarrollador+M%C3%B3vil" alt="Typing SVG">
 </div>
 
-## 🚀 About Me
+## 🚀 Sobre Mí
 
-> *"I'm a punctual, organized, and responsible person who socializes easily. I'm fully committed to fulfilling my duties and constantly seek to learn in any type of work. I aim to secure a position where I can apply my knowledge to the fullest as a professional and work towards better opportunities through gained experience."*
+> *"Soy una persona puntual, organizada y responsable que socializa con facilidad. Estoy completamente comprometido con el cumplimiento de mis deberes y busco constantemente aprender en cualquier tipo de trabajo. Mi objetivo es asegurar un puesto donde pueda aplicar mis conocimientos al máximo como profesional y avanzar hacia mejores oportunidades a través de la experiencia adquirida."*
 
-## 📚 Education
-- **Systems Engineering** at Mariano Gálvez University of Guatemala (Currently in 6th semester)
+## 📚 Educación
+- **Ingeniería en Sistemas** en la Universidad Mariano Gálvez de Guatemala (Actualmente en 6to semestre)
 - **Perito Contador con Orientación en Computación** — Colegio La Salle, Antigua Guatemala (2021 - 2023)
 
-## 💼 Experience
+## 💼 Experiencia
 
-### 🧑‍💻 Full Stack / QA Developer — EVU (CyberKismet)
+### 🧑‍💻 Desarrollador Full Stack / QA — EVU (CyberKismet)
 **01/01/2025 - 31/12/2025**
-- Mobile app development with React Native and TypeScript (iOS & Android)
-- API integration with Twilio (messaging) and SendBird (real-time chat)
-- Authentication & security management with Supabase
-- Database maintenance, query optimization, and migrations (SQL)
-- Docker deployment and environment configuration
-- Responsive styling with TailwindCSS
-- Testing & debugging with Expo Go and Android Studio
-- Technical documentation
+- Desarrollo de aplicaciones móviles con React Native y TypeScript (iOS y Android)
+- Integración de APIs con Twilio (mensajería) y SendBird (chat en tiempo real)
+- Gestión de autenticación y seguridad con Supabase
+- Mantenimiento de bases de datos, optimización de consultas y migraciones (SQL)
+- Despliegue con Docker y configuración de entornos
+- Estilos responsivos con TailwindCSS
+- Pruebas y depuración con Expo Go y Android Studio
+- Documentación técnica
 
-### 🌐 Web Programmer — Independent Projects
-**01/01/2024 - Present**
-- Affedco (Construction) — https://affedco.com/
+### 🌐 Programador Web — Proyectos Independientes
+**01/01/2024 - Presente**
+- Affedco (Construcción) — https://affedco.com/
 - Gamas Legacy Real Estate — https://gamaslegacyrealestate.com/
-- Genuine Faith Shelters (Uganda, Africa) — https://genuinefaithshelters.org/
-- Acaten360 (Volcano Travel Agency) — https://acaten360.com/
-- FertiOrganico (Agriculture) — https://fertiorganico.com.gt/
-- Clínicas Ser en Equilibrio (Psychology) — https://clinicaserenequilibrio.com
+- Genuine Faith Shelters (Uganda, África) — https://genuinefaithshelters.org/
+- Acaten360 (Agencia de Viajes Volcán) — https://acaten360.com/
+- FertiOrganico (Agricultura) — https://fertiorganico.com.gt/
+- Clínicas Ser en Equilibrio (Psicología) — https://clinicaserenequilibrio.com
 
-## 🌐 Languages
-- 🇪🇸 Spanish (Native)
-- 🇺🇸 English (Intermediate - Currently improving)
+## 🌐 Idiomas
+- 🇪🇸 Español (Nativo)
+- 🇺🇸 Inglés (Intermedio - Actualmente mejorando)
 
-## ✈️ Others
-- American VISA
-- Guatemalan Passport
-
----
-
-## 🏆 Certifications (Specializations)
-
-### 🗃️ Database
-| Course | Certificate |
-|--------|-------------|
-| SQL Specialization | [🔗 View](https://drive.google.com/file/d/1EmcBpkiY7FVbNyKvI7wIKleb_vi5rf1i/view?usp=drive_link) |
-
-### 📊 Data Analytics
-| Course | Certificate |
-|--------|-------------|
-| Specialization in R - Data Science | [🔗 View](https://drive.google.com/file/d/1HcG7Xo1C3_K8NuU5TTnFENYXXiJ4W-SQ/view?usp=drive_link) |
-
-### 🎨 UX Design
-| Course | Certificate |
-|--------|-------------|
-| UX Specialization | [🔗 View](https://drive.google.com/file/d/1QAvql-rlmfUsFN_ideP35MeU57pgIcJ2/view?usp=sharing) |
-
-### 💻 Front-End Development
-| Course | Certificate |
-|--------|-------------|
-| HTML Specialization | [🔗 View](https://drive.google.com/file/d/1olp69tNpmsThp1jYAwlGtkH7RK8UJw7Y/view?usp=drive_link) |
-| Web Programming Specialization | [🔗 View](https://drive.google.com/file/d/1j8z33hjfvLrjXvETzap76Nqh1LreVM0f/view?usp=sharing) |
-
-### ⚙️ Back-End Development
-| Course | Certificate |
-|--------|-------------|
-| Python/Django Specialization | [🔗 View](https://drive.google.com/file/d/1kzr802v823SxCtQfgsufo4qIB6OrY_Tg/view?usp=sharing) |
-
-### 🔒 Cybersecurity
-| Course | Certificate |
-|--------|-------------|
-| Cybersecurity Specialization | [🔗 View](https://drive.google.com/file/d/1DXULWpMKhMn0LmIjbCsSIA38l1vtl8f5/view?usp=sharing) |
+## ✈️ Otros
+- VISA Americana
+- Pasaporte Guatemalteco
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Certificaciones (Especializaciones)
 
-### Programming Languages
+### 🗃️ Base de Datos
+| Curso | Certificado |
+|--------|-------------|
+| Especialización en SQL | [🔗 Ver](https://drive.google.com/file/d/1EmcBpkiY7FVbNyKvI7wIKleb_vi5rf1i/view?usp=drive_link) |
+
+### 📊 Análisis de Datos
+| Curso | Certificado |
+|--------|-------------|
+| Especialización en R - Ciencia de Datos | [🔗 Ver](https://drive.google.com/file/d/1HcG7Xo1C3_K8NuU5TTnFENYXXiJ4W-SQ/view?usp=drive_link) |
+
+### 🎨 Diseño UX
+| Curso | Certificado |
+|--------|-------------|
+| Especialización en UX | [🔗 Ver](https://drive.google.com/file/d/1QAvql-rlmfUsFN_ideP35MeU57pgIcJ2/view?usp=sharing) |
+
+### 💻 Desarrollo Front-End
+| Curso | Certificado |
+|--------|-------------|
+| Especialización en HTML | [🔗 Ver](https://drive.google.com/file/d/1olp69tNpmsThp1jYAwlGtkH7RK8UJw7Y/view?usp=drive_link) |
+| Especialización en Programación Web | [🔗 Ver](https://drive.google.com/file/d/1j8z33hjfvLrjXvETzap76Nqh1LreVM0f/view?usp=sharing) |
+
+### ⚙️ Desarrollo Back-End
+| Curso | Certificado |
+|--------|-------------|
+| Especialización en Python/Django | [🔗 Ver](https://drive.google.com/file/d/1kzr802v823SxCtQfgsufo4qIB6OrY_Tg/view?usp=sharing) |
+
+### 🔒 Ciberseguridad
+| Curso | Certificado |
+|--------|-------------|
+| Especialización en Ciberseguridad | [🔗 Ver](https://drive.google.com/file/d/1DXULWpMKhMn0LmIjbCsSIA38l1vtl8f5/view?usp=sharing) |
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+### Lenguajes de Programación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,py,cpp,cs,js,ts,html,css,r" alt="Technical Skills" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,py,cpp,cs,js,ts,html,css,r" alt="Habilidades Técnicas" height="50"/>
 </p>
 
-### Frameworks & Tools
+### Frameworks y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,react,reactnative,tailwind,vite,angular,vscode,visualstudio,postgresql,github,figma,docker,supabase,androidstudio" alt="Frameworks and Tools" height="50"/>
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,react,reactnative,tailwind,vite,angular,vscode,visualstudio,postgresql,github,figma,docker,supabase,androidstudio" alt="Frameworks y Herramientas" height="50"/>
 </p>
 
-### Other Tools
+### Otras Herramientas
 - JIRA · POSTMAN · Expo Go · Twilio · SendBird · Git Bash · Linux / Windows · Notion · Teams · SAP · R Studio · Oracle · Microsoft SQL Server 2019 · PgAdmin4 · Google Cloud
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo21Josee&show_icons=true&theme=algolia" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo21Josee&layout=compact&theme=algolia" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo21Josee&show_icons=true&theme=algolia" alt="Estadísticas de GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo21Josee&layout=compact&theme=algolia" alt="Lenguajes Principales" width="400"/>
 </p>
 
 ---
 
-## 📬 Contact Me
+## 📬 Contáctame
 <p align="center">
   <a href="mailto:josemarquez21garcia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -121,5 +121,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ricardo21Josee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ricardo21Josee&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al Perfil"/>
 </div>
